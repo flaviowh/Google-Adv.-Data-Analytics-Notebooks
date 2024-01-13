@@ -4,12 +4,14 @@ Some highlights from the Google Advanced Data Analytics Professional course
 These are the most important points covered during the 7 courses in this certificate (according to me).
 The purpose of this repository of notebooks is to document my learning and also for reference. This is by
 no means all the material covered. There are other documents useful for reference but I chose to share only
-the notebooks.
+the notebooks. I already had some previous knowledge of ML, as you can check on my ML repo, and the books in the notes. 
+But this course gave me more confidence in using explainable models and a stronger grasp of the foundations of DS
+and the importance of other skills besides tehcnical.
 
-For claritication, the courses are:
+For claritication, the courses that comprise the certificate are:
 
 ### Foundations of Data Science
-Here I was introduced to the concept of data analysis, the difference between the roles in the data field, and what to expect from the course. Throughout this and all the courses, there are many valuable career insights given by Google employees of diverse fields related to data.
+Here we are introduced to the concept of data analysis, the difference between the roles in the data field, and what to expect from the course. Throughout this and all the courses, there are many valuable career insights given by Google employees of diverse fields related to data.
 
 ### Get Started with Python
 
