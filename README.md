@@ -6,7 +6,7 @@ The purpose of this repository of notebooks is to document my learning and also 
 no means all the material covered. There are other documents useful for reference but I chose to share only
 the notebooks. I already had some previous knowledge of ML, as you can check on my ML repo, and the books in the notes. 
 But this course gave me more confidence in using explainable models and a stronger grasp of the foundations of DS
-and the importance of other skills besides tehcnical.
+and the importance of other skills besides technical.
 
 For claritication, the courses that comprise the certificate are:
 
