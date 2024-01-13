@@ -29,7 +29,7 @@ This is a very in-depth exploration of regression, linear and logistic. I was al
 
 ### The Nuts and Bolts of Machine Learning
 
-Here we got our hands on models I was already familiar with, mostly of the supervised learning type, such as trees, random forests, xgboost, naive bayes. And unsepervised clustering models. I learned more about how to chose these models for each specific task and how to tune them properly. I only regret the course not covering neural networks.
+Here we got our hands on models I was already familiar with, mostly of the supervised learning type, such as trees, random forests, xgboost, naive bayes. And unsepervised clustering models. I learned more about how to chose these models for each specific task and how to tune them properly. I only regret the course not covering neural networks, wich I learned a little about from books, but it makes sense since almost all the models taught are explainable, and also perform very reliably and even better than a black-box NN in many situations.
 
 ### Google Advanced Data Analytics Capstone
 
