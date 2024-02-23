@@ -2,8 +2,7 @@
 Some highlights from the Google Advanced Data Analytics Professional course
 
 These are the most important points covered during the 7 courses in this certificate (according to me).
-The purpose of this repository of notebooks is to document my learning and also for reference. This is by
-no means all the material covered. There are other documents useful for reference but I chose to share only
+The purpose of this repository of notebooks is to document my learning and also for reference in certain data science topics and Python libraries. This is not all the material covered the courses. There are other documents useful for reference but I chose to share only
 the notebooks. I already had some previous knowledge of ML, as you can check on my ML repo, and the books in the notes. 
 But this course gave me more confidence in using explainable models and a stronger grasp of the foundations of DS
 and the importance of other skills besides technical.
@@ -35,9 +34,14 @@ Here we got our hands on models I was already familiar with, mostly of the super
 
 ### Google Advanced Data Analytics Capstone
 
-The end of the course challenge. Pretty underwhelming considering the previous notebooks to be honest.
+The end of the course challenge. Pretty underwhelming considering the previous notebooks, to be honest.
 
 ### Notes
+
+The datasets used in the notebooks are not in this repository because some can be lenghty, but they can be easily found online.
+
+The Google team structured the material around the concept of the PACE framework for project building, which stands for 
+Planning, Analysing, Constructing and Executing. While I think the concepts are useful for organizing a workflow in a work environment, I didn't focus on it here, and chose to showcase more the technical content. If the reader is curious, they can easily look it up.
 
 if you are interested in data science and machine learning and know some Python already, I cannot recommend these two books enough, which should be read in the following order:
 
